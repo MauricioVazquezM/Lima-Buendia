@@ -1,0 +1,11 @@
+name: lima-buendia
+channels:
+  - defaults
+dependencies:
+  - jupyter=1.0.0
+  - pandas=1.4.3
+  - pip=22.1.2
+  - nltk=3.7
+  - seaborn=0.11.2
+  - pip:
+    - wordcloud==1.8.2.2
